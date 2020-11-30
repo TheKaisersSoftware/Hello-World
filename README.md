@@ -1,2 +1,2 @@
 # Hello-World
-"You say goodbye and I say hello."
+You say goodbye and I say hello.
